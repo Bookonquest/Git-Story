@@ -1,4 +1,4 @@
 # Git-Story
-Open-story with which all can send improvements and continuations
+Open-story where everyone can send improvements and continuations
 
-Please read [Rules.md](https://github.com/Bookonquest/Git-Story/blob/master/Rules.md) before enjoy resuming the story.
+Please read [Rules.md](https://github.com/Bookonquest/Git-Story/blob/master/Rules.md) before you enjoy resuming the story.
